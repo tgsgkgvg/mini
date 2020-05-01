@@ -34,4 +34,4 @@ LOG_MAXBYTES = 1024
 LOG_BACKUPS = 2
 
 
-UPLOAD_FOLDER = '/Users/sirajr/Downloads/flaskSaaS-master/app/forms'
+UPLOAD_FOLDER = '/home/tarun/Desktop/easymed/AI_Startup_Prototype/flaskSaaS-master/app/forms'

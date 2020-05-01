@@ -44,6 +44,7 @@ def upload_file():
       #    myArr[x,:,:,:] = myImg
 
       im = cv2.imread(path)
+      # print(im.shape)
       myImg = cv2.resize(im,(150,150))
       myImg = myImg/255.
       myArr[0,:,:,:] = myImg
